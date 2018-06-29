@@ -1,0 +1,30 @@
+D:\OWATC\Visual C#\Final Project\Test\Compression Assistant\Compression Assistant\bin\Debug\Compression Assistant.exe.config
+D:\OWATC\Visual C#\Final Project\Test\Compression Assistant\Compression Assistant\bin\Debug\Compression Assistant.exe
+D:\OWATC\Visual C#\Final Project\Test\Compression Assistant\Compression Assistant\bin\Debug\Compression Assistant.pdb
+D:\OWATC\Visual C#\Final Project\Test\Compression Assistant\Compression Assistant\obj\Debug\Compression Assistant.csprojResolveAssemblyReference.cache
+D:\OWATC\Visual C#\Final Project\Test\Compression Assistant\Compression Assistant\obj\Debug\Compression_Assistant.compLab.resources
+D:\OWATC\Visual C#\Final Project\Test\Compression Assistant\Compression Assistant\obj\Debug\Compression_Assistant.Properties.Resources.resources
+D:\OWATC\Visual C#\Final Project\Test\Compression Assistant\Compression Assistant\obj\Debug\Compression Assistant.csproj.GenerateResource.Cache
+D:\OWATC\Visual C#\Final Project\Test\Compression Assistant\Compression Assistant\obj\Debug\Compression Assistant.csproj.CoreCompileInputs.cache
+D:\OWATC\Visual C#\Final Project\Test\Compression Assistant\Compression Assistant\obj\Debug\Compression Assistant.exe
+D:\OWATC\Visual C#\Final Project\Test\Compression Assistant\Compression Assistant\obj\Debug\Compression Assistant.pdb
+D:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\bin\Debug\Compression Assistant.exe.config
+D:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\bin\Debug\Compression Assistant.exe
+D:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\bin\Debug\Compression Assistant.pdb
+D:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\Compression Assistant.csprojResolveAssemblyReference.cache
+D:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\Compression_Assistant.compLab.resources
+D:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\Compression_Assistant.Properties.Resources.resources
+D:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\Compression Assistant.csproj.GenerateResource.Cache
+D:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\Compression Assistant.csproj.CoreCompileInputs.cache
+D:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\Compression Assistant.exe
+D:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\Compression Assistant.pdb
+G:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\bin\Debug\Compression Assistant.exe.config
+G:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\bin\Debug\Compression Assistant.exe
+G:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\bin\Debug\Compression Assistant.pdb
+G:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\Compression Assistant.csprojAssemblyReference.cache
+G:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\Compression_Assistant.compLab.resources
+G:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\Compression_Assistant.Properties.Resources.resources
+G:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\Compression Assistant.csproj.GenerateResource.cache
+G:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\Compression Assistant.csproj.CoreCompileInputs.cache
+G:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\Compression Assistant.exe
+G:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\Compression Assistant.pdb

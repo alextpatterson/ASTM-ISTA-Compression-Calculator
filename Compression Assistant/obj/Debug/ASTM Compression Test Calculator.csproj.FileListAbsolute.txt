@@ -1,0 +1,31 @@
+D:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\bin\Debug\ASTM-ISTA Compression Calculator.exe.config
+D:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\bin\Debug\ASTM-ISTA Compression Calculator.exe
+D:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\bin\Debug\ASTM-ISTA Compression Calculator.pdb
+D:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\Compression_Assistant.compLab.resources
+D:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\Compression_Assistant.Properties.Resources.resources
+D:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\ASTM Compression Test Calculator.csproj.GenerateResource.Cache
+D:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\ASTM Compression Test Calculator.csproj.CoreCompileInputs.cache
+D:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\ASTM-ISTA Compression Calculator.exe
+D:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\ASTM-ISTA Compression Calculator.pdb
+G:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\bin\Debug\ASTM-ISTA Compression Calculator.exe.config
+G:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\bin\Debug\ASTM-ISTA Compression Calculator.exe
+G:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\bin\Debug\ASTM-ISTA Compression Calculator.pdb
+G:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\Compression_Assistant.compLab.resources
+G:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\Compression_Assistant.Properties.Resources.resources
+G:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\ASTM Compression Test Calculator.csproj.GenerateResource.cache
+G:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\ASTM Compression Test Calculator.csproj.CoreCompileInputs.cache
+G:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\ASTM-ISTA Compression Calculator.exe
+G:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\ASTM-ISTA Compression Calculator.pdb
+D:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\ASTM Compression Test Calculator.csprojResolveAssemblyReference.cache
+D:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\Compression_Assistant.Form2.resources
+E:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\bin\Debug\ASTM-ISTA Compression Calculator.exe.config
+E:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\bin\Debug\ASTM-ISTA Compression Calculator.exe
+E:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\bin\Debug\ASTM-ISTA Compression Calculator.pdb
+E:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\ASTM Compression Test Calculator.csprojResolveAssemblyReference.cache
+E:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\Compression_Assistant.compLab.resources
+E:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\Compression_Assistant.Form2.resources
+E:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\Compression_Assistant.Properties.Resources.resources
+E:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\Compression_Assistant.SplashScreen.resources
+E:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\ASTM Compression Test Calculator.csproj.GenerateResource.Cache
+E:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\ASTM-ISTA Compression Calculator.exe
+E:\OWATC\Visual C#\Final Project\Compression Assistant\Compression Assistant\obj\Debug\ASTM-ISTA Compression Calculator.pdb
